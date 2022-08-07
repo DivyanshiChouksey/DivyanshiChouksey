@@ -1,6 +1,6 @@
 <h1 align="center">Hello There 🤙,Divyanshi Chouksey </h1>
 
-<h3 align="center"> learning c++ </h3>
+<h3 align="center"> learning python </h3>
 
 
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
@@ -16,7 +16,7 @@
 
 <h2 align="left"> What I am Doing? </h2>
 
-<h3>🚧 I’m currently working on C++</h3>
+<h3>🚧 I’m currently working on Python</h3>
 
 <h3>📑 I'm Currently Learning Programming Languages</h3>
 
@@ -31,7 +31,7 @@
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=DivyanshiChouksey&show_icons=true&locale=en" alt="DivyanshiChouksey" ></p><!-- - 👋 Hi, I’m @DivyanshiChouksey
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on new projects.
 <!---
 DivyanshiChouksey/DivyanshiChouksey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
