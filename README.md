@@ -1,14 +1,12 @@
 <h1 align="center">Hello There 🤙,Divyanshi Chouksey </h1>
 
-<h3 align="center"> learning python </h3>
-
 
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 
-<p align="center"> Hi, I am a second year student </p>
+<p align="center"> Hi, I am a Third year student, excited to learn new things and explore the world. Currently looking for internship opportunities. </p>
 
-<h3> Skills: C,C++ and learning more</h3>
+<h3> Skills: C, C++, Python DSA - Basic and learning more</h3>
 
 <h3> College: GGCT </h3> <br />
 
@@ -16,9 +14,9 @@
 
 <h2 align="left"> What I am Doing? </h2>
 
-<h3>🚧 I’m currently working on Python</h3>
+<h3>🚧 I’m currently working on DSA</h3>
 
-<h3>📑 I'm Currently Learning Programming Languages</h3>
+<h3>📑 I'm Currently Learning Problem Solving skills.</h3>
 
 <h3>🏅 My Favourite Hobby Painting </h3>
 
@@ -37,4 +35,4 @@
 DivyanshiChouksey/DivyanshiChouksey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
- -->
+ 
