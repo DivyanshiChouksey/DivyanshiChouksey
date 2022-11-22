@@ -23,7 +23,7 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=DivyanshiChouksey" alt="DivyanshiChouksey"> </p>
 
-<p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshiChouksey&" alt="DivyanshiChouksey" > </p>
+<p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshiChouksey" alt="DivyanshiChouksey" > </p>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DivyanshiChouksey&show_icons=true&locale=en&layout=compact" alt="DivyanshiChouksey" > </p>
 
