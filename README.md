@@ -42,8 +42,8 @@
 
 <p>
  
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshiChouksey&theme=merko&hide_border=false" alt="divyanshichouksey" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=DivyanshiChouksey&theme=merko&hide_border=false&include_all_commits=true&count_private=true" alt="divyanshichouksey" /><br><p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshiChouksey&theme=merko&hide_border=false" alt="divyanshichouksey" />
+<img  src="https://github-readme-stats.vercel.app/api?username=DivyanshiChouksey&theme=merko&hide_border=false&include_all_commits=true&count_private=true" alt="divyanshichouksey" /><br><p>
 
 
 
