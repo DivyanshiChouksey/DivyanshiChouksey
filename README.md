@@ -1,38 +1,63 @@
-<h1 align="center">Hello There 🤙,Divyanshi Chouksey </h1>
 
 
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+<h1 align="center">Hi 👋, I'm Divyanshi Chouksey</h1>
+<h3 align="center">3rd Year B.tech student from India, actively looking for Internship</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshichouksey&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshichouksey" /> </p>
 
-<p align="center"> Hi, I am a Third year student, excited to learn new things and explore the world. Currently looking for internship opportunities. </p>
+- 🔭 I’m currently working on **an AI based project to help Deaf-mute**
 
-<h3> Skills: C, C++, Python DSA - Basic and learning more</h3>
+- 🌱 I’m currently learning **Bitcoin, ML, DSA and also real world projects**
 
-<h3> College: GGCT </h3> <br />
+- 👯 I’m looking to collaborate on **Open Source Projects, DSA**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DivyanshiChouksey&label=Profile%20views&color=0e75b6&style=flat" alt="DivyanshiChouksey"> </p>
+ <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-<h2 align="left"> What I am Doing? </h2>
+- 👨‍💻 All of my projects are available at [DivyanshiChouksey's GitHub](https://github.com/DivyanshiChouksey)
 
-<h3>🚧 I’m currently working on DSA</h3>
+- 💬 Ask me about **Python**
 
-<h3>📑 I'm Currently Learning Problem Solving skills.</h3>
+- 📫 How to reach me **choukseydivyanshi@gmail.com**
 
-<h3>🏅 My Favourite Hobby Painting </h3>
+## 🌐 Socials:
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://linkedin.com/in/https://www.linkedin.com/in/DivyanshiChouksey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/DivyanshiChouksey) 
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=DivyanshiChouksey" alt="DivyanshiChouksey"> </p>
+## Who am I?
+ ```python
+ class WhoAmI:
+    def __init__(self):
+        self.user = 'Divyanshi Chouksey'
+        self.current_edu = "RGPV University"
+        self.hobbies = ["Painting",'DSA',"Exploring","Reading books (Recently started)"]
 
-<p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshiChouksey" alt="DivyanshiChouksey" > </p>
+    def getCity():
+        return Jabalpur_India()
+		
+ ```
+# 📊 GitHub Stats:
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DivyanshiChouksey&show_icons=true&locale=en&layout=compact" alt="DivyanshiChouksey" > </p>
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=DivyanshiChouksey&show_icons=true&locale=en" alt="DivyanshiChouksey" ></p><!-- - 👋 Hi, I’m @DivyanshiChouksey
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on new projects.
-<!---
-DivyanshiChouksey/DivyanshiChouksey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>
  
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyanshiChouksey&theme=merko&hide_border=false" alt="divyanshichouksey" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=DivyanshiChouksey&theme=merko&hide_border=false&include_all_commits=true&count_private=true" alt="divyanshichouksey" /><br><p>
+
+
+
+
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=DivyanshiChouksey&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+---
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+
+# Other stats
+ <p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyanshiChouksey&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="divyanshichouksey" /></p>
