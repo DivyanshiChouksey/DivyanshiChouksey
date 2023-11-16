@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Divyanshi Chouksey</h1>
-<h3 align="center">3rd Year B.tech student from India, actively looking for Internship</h3>
+<h3 align="center">4th Year B.tech student from India, actively looking for Internship</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshichouksey&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshichouksey" /> </p>
 
